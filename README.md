@@ -1,3 +1,72 @@
+# Pierromax Portfolio
+
+Welcome to my professional portfolio website! 🎨
+
+## 🌟 Portfolio Website
+
+This repository contains a modern, responsive portfolio website built with **Tailwind CSS** and **Vite**, designed to showcase skills and projects for internship applications.
+
+👉 **[View Portfolio Documentation](PORTFOLIO-README.md)** for detailed setup and customization instructions.
+
+## ✨ Features
+
+- ✅ Fully responsive design (mobile, tablet, desktop)
+- ✅ Modern UI with Tailwind CSS v4
+- ✅ Fast development with Vite
+- ✅ Smooth animations and transitions
+- ✅ Professional sections: Hero, About, Skills, Projects, Contact
+- ✅ Ready for deployment
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+Visit `http://localhost:3000` to see the portfolio in action!
+
+## 📝 Customization
+
+1. Update your personal information in `index.html`
+2. Replace placeholder content with your own projects and skills
+3. Customize colors in `src/css/style.css`
+4. Add your own images to `public/images/`
+
+For detailed instructions, see [PORTFOLIO-README.md](PORTFOLIO-README.md)
+
+## 🌐 Deployment
+
+The portfolio can be easily deployed to:
+- GitHub Pages
+- Netlify
+- Vercel
+- Any static hosting service
+
+## 📦 Technologies
+
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS v4
+- Vite
+- PostCSS
+
+---
+
+**Looking for internship opportunities!** Feel free to reach out if you'd like to connect.
+
+## GitHub Pages Learning Resources
+
+This repository also includes resources for learning GitHub Pages. See the sections below for more information.
+
+<details>
+<summary>GitHub Pages Course (Click to expand)</summary>
+
 <header>
 
 <!--
@@ -52,3 +121,6 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+</details>
+
