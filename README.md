@@ -1,54 +1,40 @@
-<header>
+﻿# Pierromax
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Dev qui aime shipper des produits solides et bien documentes. Ajoute ici un court pitch sur ce que tu fais le plus (web, data, devops...).
 
-# GitHub Pages
+## A propos
+- Developpeur passionne, toujours partant pour apprendre et partager.
+- Pratique quotidienne: clean code, petites iterations, feedback rapide.
+- Basculable: open source, protos rapides, accompagnement produit.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## En ce moment
+- Projet principal: TODO ajoute ton projet phare ou side project actuel.
+- J'apprends / je consolide: TODO liste les techno ou sujets du moment.
+- Ouvert a la collaboration sur des outils dev, data, automation.
 
-</header>
+## Stack principale
+- Langages: TypeScript, JavaScript, Python, SQL.
+- Backend: Node.js (Express/Fastify), REST/GraphQL, auth, tests.
+- Frontend: React, Next.js, UI systeme avec composants reutilisables.
+- DevOps: Docker, GitHub Actions, monitoring basique, bonnes pratiques Git.
+- Donnees: PostgreSQL, Redis, modelisation et migrations.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Projets a decouvrir
+- [Projet 1](https://github.com/TON_USER/TON_REPO) - Decris en une phrase ce que fait ce projet.
+- [Projet 2](https://github.com/TON_USER/TON_REPO) - Mentionne l'impact ou la techno principale.
+- [Projet 3](https://github.com/TON_USER/TON_REPO) - Mets en avant un resultat concret (perf, UX, chiffre).
 
-## Step 1: Enable GitHub Pages
+## Ma maniere de bosser
+- Priorite a la simplicite: petites PR, revues rapides, docs a jour.
+- Tests et CI/CD par defaut pour securiser les livraisons.
+- Communication claire: checklists, roadmaps legeres, debriefs apres livraison.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Contact
+- Email: TODO ajoute ton email public.
+- LinkedIn: TODO ajoute ton profil.
+- Site/Portfolio: TODO ajoute un lien si tu en as un.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+## Pour personnaliser vite
+- Remplace les TODO par tes infos et liens.
+- Ajoute un visuel (banniere 1280x640) si tu veux une cover partagee.
+- Tu peux aussi rajouter des badges (build, releases, stats) pour tes repos clefs.
