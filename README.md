@@ -1,4 +1,4 @@
-﻿# Pierromax
+﻿# Pierre Le Guyader
 
 Developeur former a l'ecole 42 Paris, viens de finir le tronc commun et en recherche d'un premier stage
 
