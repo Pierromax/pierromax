@@ -14,9 +14,6 @@
 
 ## 📫 Contact Me
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-le-guyader-692790172/)
+[![Mail](https://img.shields.io/badge/mail-D14836?style=for-the-badge)](mailto:pier.lg@outlook.fr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeltisserand/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tisserandraph@gmail.com)
-
-</div>
